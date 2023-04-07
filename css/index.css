@@ -135,7 +135,7 @@ body {
     padding: 0 15px;
 }
 
-.senction_01 {
+.section_01 {
     display: flex;
     gap: 30px;
     align-self: center;
@@ -145,18 +145,18 @@ body {
     
 }
 
-.senction_01 .text_box {
+.section_01 .text_box {
     flex: 1;
     height: 500px;
     padding: 63px 30px;    
 }
 
-.senction_01 .text_box h2{
+.section_01 .text_box h2{
     font-size: 56px;
     font-weight: 700;
 }
 
-.senction_01 .text_box p{
+.secction_01 .text_box p{
 
 }
 
